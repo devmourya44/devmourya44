@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmourya44&show_icons=true&locale=en" alt="devmourya44" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmourya44&" alt="devmourya44" /></p>
+
+ ![Snake animation](https://github.com/devmourya44/devmourya44/blob/output/github-contribution-grid-snake.svg)
+            
