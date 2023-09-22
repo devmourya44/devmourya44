@@ -28,5 +28,5 @@
 
 <br>
 
-![snake gif](https://github.com/devmourya44/devmourya44/blob/output/github-contribution-grid-snake.gif)
+
             
